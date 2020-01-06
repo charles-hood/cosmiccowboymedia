@@ -1,0 +1,22 @@
+artist:
+  name: Cosmic Cowboy Media
+  tagline: Greg Shaddix - podcaster, songwriter & maker of balloon animals out of the truth
+  seo_title: Podcaster, Singer, Songwriter
+  # seo_description:
+  # contact_twitter_username: gshaddixmusic
+  # contact_phone: 
+  # contact_email: cosmiccowboymedia@gmail.com
+
+social:
+  - name: Facebook
+    url: https://www.facebook.com/TheMockingbirdPodcast/
+  - name: Instagram
+    url: https://www.instagram.com/cosmiccowboymedia/
+  - name: Twitter
+    url: https://twitter.com/gshaddixmusic
+  - name: Youtube
+    url: https://www.youtube.com/themockingbird
+  - name: Spotify
+    url: https://open.spotify.com/album/0o8UuUJlwQw6psy4fyUOnl
+
+site_language: en

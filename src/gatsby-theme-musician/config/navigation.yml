@@ -1,0 +1,9 @@
+navigation:
+  - text: Videos
+    url: "#videos"
+  - text: Shows
+    url: "#shows"
+  - text: Contact
+    url: "#contact"
+  - text: Merch
+    url: "https://www.storefrontier.com/greg-shaddix"
