@@ -5,5 +5,7 @@ navigation:
     url: "#shows"
   - text: Contact
     url: "#contact"
+  - text: Patreon
+    url: "https://www.patreon.com/themockingbirdpodcast"
   - text: Merch
     url: "https://www.storefrontier.com/greg-shaddix"
