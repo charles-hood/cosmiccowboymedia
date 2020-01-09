@@ -2,7 +2,7 @@
 - name: The Mockingbird Live Streaming Event
   date: "2020-01-08"
   location: The Mockingbird Studios from 8-9 pm
-  info_url: 
+  info_url: https://www.facebook.com/watch/live/?v=2673876485981645
   
 - name: Greg Shaddix Hosts "The Battle of The Bands"
   date: "2020-01-09"
@@ -11,6 +11,11 @@
   
 - name: The Mockingbird Live Streaming Event
   date: "2020-01-12"
+  location: The Mockingbird Studios from 8-9 pm
+  info_url: 
+  
+- name: The Mockingbird Podcast with Jordan Armstrong
+  date: "2020-01-13"
   location: The Mockingbird Studios from 8-9 pm
   info_url: 
   
