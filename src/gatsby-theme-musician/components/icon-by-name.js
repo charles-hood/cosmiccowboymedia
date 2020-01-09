@@ -11,6 +11,8 @@ import {
   FaTumblr,
   FaTwitter,
   FaYoutube,
+  FaPatreon,
+  FaPodcast,
 } from "react-icons/fa"
 
 let appleIcon = <FaApple focusable="false" aria-hidden="true" />
@@ -23,6 +25,8 @@ let tumblrIcon = <FaTumblr focusable="false" aria-hidden="true" />
 let twitterIcon = <FaTwitter focusable="false" aria-hidden="true" />
 let youtubeIcon = <FaYoutube focusable="false" aria-hidden="true" />
 let facebookIcon = <FaFacebookF focusable="false" aria-hidden="true" />
+let patreonIcon = <FaPatreon focusable="false" aria-hidden="true" />
+let podcastIcon = <FaPodcast focusable="false" aria-hidden="true" />
 
 const Icon = props => {
   switch (props.name) {
@@ -46,6 +50,10 @@ const Icon = props => {
       return bandcampIcon
     case "tumblr":
       return tumblrIcon
+    case "patreon":
+      return patreonIcon
+    case "podcast":
+      return podcastIcon
     default:
       return globeIcon
   }
