@@ -18,7 +18,9 @@ social:
     url: https://www.youtube.com/themockingbird
   - name: Spotify
     url: https://open.spotify.com/show/6NbiepShAMRYu1x5jCk8Jc
-  - name: Podcast
+  - name: Apple
     url: https://podcasts.apple.com/us/podcast/the-mockingbird/id1454574904
+  - name: Podcast
+    url: https://www.stitcher.com/podcast/the-mockingbird
 
 site_language: en
