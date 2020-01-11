@@ -1,13 +1,8 @@
- 
-- name: The Mockingbird Live Streaming Event
-  date: "2020-01-08"
-  location: The Mockingbird Studios from 8-9 pm
-  info_url: https://www.facebook.com/watch/live/?v=2673876485981645
-  
-- name: Greg Shaddix Hosts "The Battle of The Bands"
-  date: "2020-01-09"
+- name: Greg Shaddix Live on the Patio 3-6pm
+  date: "2020-01-12"
   location: MadLife Stage and Studios, Woodstock, Georgia
-  info_url: https://www.facebook.com/events/529081501191958/
+  info_url: https://www.facebook.com/events/2554737984802040/
+
   
 - name: The Mockingbird Live Streaming Event
   date: "2020-01-12"
