@@ -16,7 +16,7 @@
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-01-14"
   location: The Hawg and Ale Smokehouse, Marietta, GA
-  info_url: 
+  info_url: https://www.facebook.com/events/1742464892545077/
   
 - name: Greg Shaddix Hosts The Undiscovered Artists Series
   date: "2020-01-15"
@@ -38,10 +38,10 @@
   location: The Mockingbird Studios from 7:30-10:30 pm
   info_url: https://www.facebook.com/events/2194131370889900/
   
-- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+- name: Open Mic at "The Hawg and Ale" hosted by Greg Shaddix
   date: "2020-01-21"
-  location: The Hawg and Ale Smokehouse, Marietta, GA
-  info_url: 
+  location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
+  info_url: https://www.facebook.com/events/1742464892545077/
   
 - name: The Mockingbird Podcast with Scott Shrewsberry
   date: "2020-01-22"
@@ -61,7 +61,7 @@
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-01-28"
   location: The Hawg and Ale Smokehouse, Marietta, GA
-  info_url: 
+  info_url: https://www.facebook.com/events/1742464892545077/
 
 - name: Greg Shaddix Hosts The Undiscovered Artists Series
   date: "2020-01-29"
@@ -78,6 +78,11 @@
   location: The Mockingbird Studios from 8-9pm
   info_url: 
   
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-02-04"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
+  
 - name: The Mockingbird Live Streaming Event
   date: "2020-02-05"
   location: The Mockingbird Studios from 11-12pm
@@ -93,10 +98,20 @@
   location: The Mockingbird Studios from 8-9pm
   info_url: 
   
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-02-11"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
+  
 - name: Greg Shaddix Live-Featured Performer
   date: "2020-02-12"
   location: Schoolhouse Brewery
   info_url: 
+  
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-02-18"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
   
 - name: Greg Shaddix Live at The Songwriter Sessions
   date: "2020-02-22"
@@ -108,25 +123,55 @@
   location: The Mockingbird Studios 8-9pm
   info_url: 
   
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-02-25"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
+  
 - name: The Mockingbird Live Streaming Event-Week in Review
   date: "2020-03-01"
   location: The Mockingbird Studios from 8-9pm
   info_url: 
+  
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-03-03"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
   
 - name: The Mockingbird Live Streaming Event-Week in Review
   date: "2020-03-08"
   location: The Mockingbird Studios from 8-9pm
   info_url: 
   
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-03-10"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
+  
 - name: The Mockingbird Live Streaming Event-Week in Review
   date: "2020-03-15"
   location: The Mockingbird Studios from 8-9pm
   info_url: 
   
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-03-17"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
+  
 - name: The Mockingbird Live Streaming Event-Week in Review
   date: "2020-03-22"
   location: The Mockingbird Studios from 8-9pm
   info_url: 
+  
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-03-24"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
+  
+- name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
+  date: "2020-03-31"
+  location: The Hawg and Ale Smokehouse, Marietta, GA
+  info_url: https://www.facebook.com/events/1742464892545077/
   
 - name: The Mockingbird Live Streaming Event-Week in Review
   date: "2020-04-05"
