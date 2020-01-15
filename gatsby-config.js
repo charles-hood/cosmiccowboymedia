@@ -32,5 +32,9 @@ module.exports = {
         endpoint: 'https://cosmiccowboymedia.us4.list-manage.com/subscribe/post?u=69e27a61fe1116ab8b7ba1669&amp;id=4edf744fb7',
       },
     },
+     // Add gatsby-plugin-favicon
+    {
+    resolve: 'gatsby-plugin-favicon',
+    },
   ]
 };
