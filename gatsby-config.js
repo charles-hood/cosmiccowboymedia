@@ -8,7 +8,7 @@ module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
     title: "Cosmic Cowboy Media",
-    description: "",
+    description: "Cosmic Cowboy",
     siteUrl: "https://cosmiccowboymedia.com"
   },
   plugins: [
@@ -21,7 +21,7 @@ module.exports = {
         // These are default values that you can override
         // basePath: `/`,
         // content: `content`,
-        // pwaName: null
+        pwaName: 'Cosmic Cowboy'
       }
    },
     // Add gatsby-plugin-mailchimp
