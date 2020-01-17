@@ -34,7 +34,13 @@ module.exports = {
     },
      // Add gatsby-plugin-favicon
     {
-    resolve: 'gatsby-plugin-favicon',
+      resolve: 'gatsby-plugin-favicon',
+      options: {
+        logo: "./src/favicon.png",
+
+        // WebApp Manifest Configuration
+        appName: 'Cosmic Cowboy' // Inferred with your package.json
+      }
     },
   ]
 };
