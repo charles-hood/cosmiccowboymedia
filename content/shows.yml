@@ -1,14 +1,6 @@
 
   
-- name: Open Mic at "The Hawg and Ale" hosted by Greg Shaddix
-  date: "2020-01-21"
-  location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
-  info_url: https://www.facebook.com/events/1742464892545077/
-  
-- name: The Mockingbird Podcast with Scott Shrewsberry
-  date: "2020-01-22"
-  location: The Mockingbird Studios from 7:30-8:30 pm
-  info_url: 
+
   
 - name: The Mockingbird Live Streaming Event
   date: "2020-01-26"
@@ -61,6 +53,11 @@
   location: Dixie Tavern
   info_url: 
   
+- name: Greg Shaddix Live at Reformation Brewery (Canton) 7-10 pm
+  date: "2020-02-08"
+  location: Reformation Brewery, 141 Railroad Street Suite 500, Canton, GA 30114, (678) 341-0828
+  info_url:   
+  
 - name: The Mockingbird Live Streaming Event-Week in Review
   date: "2020-02-09"
   location: The Mockingbird Studios from 8-9pm
@@ -79,6 +76,12 @@
 - name: Greg Shaddix Live-Featured Performer
   date: "2020-02-12"
   location: Schoolhouse Brewery
+  info_url: 
+  
+  
+- name: The Mockingbird Live with The Holly Street Band
+  date: "2020-02-10"
+  location: The Mockingbird Studios from 7-10pm
   info_url: 
   
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
@@ -106,12 +109,17 @@
   location: The Mockingbird Studios from 8-9pm
   info_url: 
   
+- name: The Mockingbird Podcast-Live with Trent Minter
+  date: "2020-02-10"
+  location: The Mockingbird Studios from 8-9pm
+  info_url: 
+  
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-03-03"
   location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
   info_url: https://www.facebook.com/events/1742464892545077/
   
-- name: The Mockingbird Live Streaming Event-Week in Review
+- name: The Mockingbird Podcast-Live Streaming Event-Week in Review
   date: "2020-03-08"
   location: The Mockingbird Studios from 8-9pm
   info_url: 
@@ -121,7 +129,7 @@
   location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
   info_url: https://www.facebook.com/events/1742464892545077/
   
-- name: The Mockingbird Live Streaming Event-Week in Review
+- name: The Mockingbird Podcast Live Streaming Event-Week in Review
   date: "2020-03-15"
   location: The Mockingbird Studios from 8-9pm
   info_url: 
@@ -131,9 +139,9 @@
   location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
   info_url: https://www.facebook.com/events/1742464892545077/
   
-- name: The Mockingbird Live Streaming Event-Week in Review
+- name: The Mockingbird Podcast Live Streaming Event-House Show
   date: "2020-03-22"
-  location: The Mockingbird Studios from 8-9pm
+  location: The Mockingbird Studios from 6-9pm
   info_url: 
   
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
