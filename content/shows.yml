@@ -1,9 +1,5 @@
-- name: Undiscovered Artist Showcase FINALS at MadLife Stage & Studios hosted by Greg Shaddix
-  date: "2020-02-12"
-  location: MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
-  info_url: https://www.facebook.com/events/821783641582041/
     
-- name: The Mockingbird Podcast Live with special guests The Holly Street Band
+- name: The Mockingbird Podcast Live with special guest Tanner Adams from The Holly Street Band
   date: "2020-02-17"
   location: The Mockingbird Studios from 7-10pm
   info_url: https://www.facebook.com/events/2194131370889900/
@@ -18,10 +14,17 @@
   location: The Canton Theatre, 171 East Main Street, Canton, GA 30114, (770) 704-0755
   info_url: https://www.facebook.com/events/459123164994527/
   
+  
 - name: The Mockingbird Live Streaming Event-Week in Review
   date: "2020-02-23"
   location: The Mockingbird Studios 8:30pm
   info_url: https://www.facebook.com/events/2194131370889900/
+  
+  
+- name: The Mockingbird Podcast LIVE with special guest Nate Mills
+  date: "2020-02-24"
+  location: The Mockingbird Studios located at MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
+  info_url: 
   
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-02-25"
@@ -58,6 +61,11 @@
   location: The Mockingbird Studios 8:30 pm
   info_url: https://www.facebook.com/events/2194131370889900/
   
+- name: The Mockingbird Podcast LIVE with special guest Thomas Fountain
+  date: "2020-03-16"
+  location: The Mockingbird Studios located at MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
+  info_url: 
+  
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-03-17"
   location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
@@ -68,10 +76,20 @@
   location: The Mockingbird Studios from 6-9pm
   info_url: 
   
+- name: The Mockingbird Podcast LIVE with special guest Jordan Grassi
+  date: "2020-03-23"
+  location: The Mockingbird Studios located at MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
+  info_url: 
+  
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-03-24"
   location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
   info_url: https://www.facebook.com/events/1742464892545077/
+  
+- name: The Mockingbird Podcast LIVE with special guest Caleb Wilkie
+  date: "2020-03-30"
+  location: The Mockingbird Studios located at MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
+  info_url: 
   
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-03-31"
