@@ -5,6 +5,12 @@
   location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
   info_url: https://www.facebook.com/events/1742464892545077/
   
+ - name: Greg Shaddix Hosts The Undiscovered Artist Showcase
+  date: "2020-02-26"
+  location: MadLife Stage and Studios, 8722 Main St, Woodstock, GA 30188, (678) 384-2363 
+  info_url: 
+  
+  
 - name: The Mockingbird Podcast Live Streaming Event-Week in Review
   date: "2020-03-01"
   location: The Mockingbird Studios 8:30 pm
@@ -18,8 +24,14 @@
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-03-03"
   location: HAWG AND ALE SMOKEHOUSE, 25 POWDER SPRINGS STREET, MARIETTA, GA, 30064, (678) 780-4294 (HAWG)
-  info_url: https://www.facebook.com/events/1742464892545077/
+  info_url: https://www.facebook.com/events/1742464892545077/ 
   
+- name: Greg Shaddix Hosts The Battle of The Bands at MadLife
+  date: "2020-03-05"
+  location: MadLife Stage and Studios, 8722 Main St, Woodstock, GA 30188, (678) 384-2363
+  info_url: https://www.facebook.com/events/2483622495229165/
+ 
+ 
 - name: The Mockingbird Podcast-Live Streaming Event-Week in Review
   date: "2020-03-08"
   location: The Mockingbird Studios 8:30 pm
@@ -80,10 +92,10 @@
   location: The Mockingbird Studios 8:30pm
   info_url: https://www.facebook.com/events/2194131370889900/
   
-- name: The Mockingbird Podcast Live Streaming Event-Week in Review
+- name: Greg Shaddix Live at Hangar 92
   date: "2020-04-12"
-  location: The Mockingbird Studios 8:30 pm
-  info_url: https://www.facebook.com/events/2194131370889900/
+  location: Hangar 92 Bar & Grill, 2123 Fairburn Rd, Douglasville, GA 30135, (678) 398-7808
+  info_url: 
   
 - name: The Mockingbird Podcast Live Streaming Event-Week in Review
   date: "2020-04-19"
