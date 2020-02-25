@@ -1,18 +1,4 @@
   
-- name: Greg Shaddix Live at The Songwriter Sessions
-  date: "2020-02-22"
-  location: The Canton Theatre, 171 East Main Street, Canton, GA 30114, (770) 704-0755
-  info_url: https://www.facebook.com/events/459123164994527/
-  
-- name: The Mockingbird Live Streaming Event-Week in Review
-  date: "2020-02-23"
-  location: The Mockingbird Studios 8:30pm
-  info_url: https://www.facebook.com/events/2194131370889900/
-  
-- name: The Mockingbird Podcast LIVE with special guest Nate Mills
-  date: "2020-02-24"
-  location: The Mockingbird Studios located at MadLife Stage & Studios, 8722 Main St, Woodstock, Georgia 30188
-  info_url: 
   
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
   date: "2020-02-25"
@@ -37,6 +23,11 @@
 - name: The Mockingbird Podcast-Live Streaming Event-Week in Review
   date: "2020-03-08"
   location: The Mockingbird Studios 8:30 pm
+  info_url: https://www.facebook.com/events/2194131370889900/
+  
+- name: The Mockingbird Podcast-Live with special guest Debra Lynn Rodriguez
+  date: "2020-03-09"
+  location: The Mockingbird Studios from 7:30-9pm
   info_url: https://www.facebook.com/events/2194131370889900/
   
 - name: Open Mic at The Hawg and Ale hosted by Greg Shaddix
