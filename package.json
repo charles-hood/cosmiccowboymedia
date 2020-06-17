@@ -12,11 +12,12 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.13.28",
+    "acorn": "^7.3.1",
+    "gatsby": "^2.23.3",
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-mailchimp": "^5.1.2",
     "gatsby-theme-musician": "^1.0.5",
-    "react": "^16.8.6",
+    "react": "^16.13.1",
     "react-dom": "^16.8.6"
   }
 }
