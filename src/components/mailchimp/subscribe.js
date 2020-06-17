@@ -71,15 +71,13 @@ export default class Subscribe extends React.Component {
             <form id='email-capture' method='post' noValidate>
               Please enter your e-mail address if you would like to subscribe to my newsletter:
               <p/>
-              <input
+              <input aria-label="email"
                 style={{ backgroundColor: 'white' }}
                 onChange={this._handleEmailChange}
                 required
               />
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <button onClick={this._handleFormSubmit}>
-                Subscribe
-              </button>
+              <button type="button" aria-label="Save" class="icon-save" onClick={this._handleFormSubmit}>Subscribe</button>
               {this.state.status === `error` && (
                 <div dangerouslySetInnerHTML={{ __html: this.state.msg }} />
               )}
