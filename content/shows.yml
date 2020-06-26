@@ -1,9 +1,14 @@
-- name: Open Mic Wednesdays on the Madlife Patio 7pm-9pm
-  date: "2020-06-17"
-  location: MadLife Stage & Studios 8722 Main St, Woodstock, Georgia 30188
-  info_url: https://www.facebook.com/greg.shaddix/posts/3314323201934010
+- name: Greg Shaddix LIVE at The Mill on Etowah
+  date: "2020-06-27"
+  location: The Mill on Etowah, 225 Reformation Parkway, Canton, Georgia 30114
+  info_url: https://www.facebook.com/events/617989322145008/
 
 - name: Greg Shaddix & Dallas McGee at Madlife Patio 11am-2:30pm
-  date: "2020-06-21"
+  date: "2020-06-28"
   location: MadLife Stage & Studios 8722 Main St, Woodstock, Georgia 30188
   info_url: https://www.facebook.com/events/292286078581268/
+
+- name: Open Mic Tuesdays on the Madlife Patio 6pm-9pm
+  date: "2020-06-30"
+  location: MadLife Stage & Studios 8722 Main St, Woodstock, Georgia 30188
+  info_url: https://www.facebook.com/greg.shaddix/posts/3314323201934010
